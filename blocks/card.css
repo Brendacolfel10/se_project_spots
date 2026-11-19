@@ -31,6 +31,12 @@
     white-space: nowrap;
 }
 
+.card__title:hover {
+    white-space: normal;
+    overflow: visible;
+    text-overflow: clip;
+}
+
 .card__like-btn {
     background-image: url(../images/heart.svg);
     width: 23px;

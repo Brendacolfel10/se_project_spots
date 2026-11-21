@@ -48,3 +48,7 @@ You can view the live version of this project here:
 https://brendacolfel10.github.io/se_project_spots/
 
 This website is deployed using GitHub Pages and showcases the completed Spots project.
+
+## Project Pitch Video
+ 
+Check out [this video](https://drive.google.com/file/d/1H8AGCot_FWb-gV_oTJ6eBnQ0kr4Vz00r/view?usp=drive_link), where I describe my project and some challenges I faced while building it.
